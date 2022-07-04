@@ -1,6 +1,3 @@
-# Data-Science
-Contains all codes related to Python, Machine Learning and Data Science
-
 Description:
 In a Data Warehouse, upstream sends out data that needs to be stored in different tables.
 These tables can have multiple attributes having different types of data.
